@@ -1,0 +1,11 @@
+.header__subtitle {
+  font-family: "Futura PT";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 19px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #999999;
+  margin: 0;
+}

@@ -1,0 +1,10 @@
+.header__link-socila {
+  font-family: "Futura PT";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  letter-spacing: 0.04em;
+  color: #696969;
+  transform: rotate(-90deg);
+}

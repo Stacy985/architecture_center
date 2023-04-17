@@ -1,0 +1,8 @@
+.header__social {
+  background: #313131;
+  width: 25.75vw;
+  padding-top: 75px;
+  padding-left: 60px;
+  box-sizing: border-box;
+  display: flex;
+}
