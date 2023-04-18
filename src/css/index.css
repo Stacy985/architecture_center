@@ -13,3 +13,7 @@
 @import url(../blocks/header/__socia-llink-container/header__socia-llink-container.css);
 @import url(../blocks/header/__subtitle/header__subtitle.css);
 @import url(../blocks/header/__img/header__img.css);
+@import url(../blocks/header/__subtitle-container/header__subtitle-container.css);
+@import url(../blocks/header/__title-container/header__title-container.css);
+@import url(../blocks/header/__menu/header__menu.css);
+@import url(../blocks/header/__text-continer/header__text-continer.css);

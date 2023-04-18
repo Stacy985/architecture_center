@@ -1,0 +1,4 @@
+.header__text-continer{
+    display: flex;
+    flex-direction: column;
+}
