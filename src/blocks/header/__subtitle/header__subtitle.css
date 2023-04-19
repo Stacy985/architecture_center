@@ -8,4 +8,6 @@
   text-transform: uppercase;
   color: #999999;
   margin: 0;
+  padding-left: 75px;
+  box-sizing: border-box;
 }

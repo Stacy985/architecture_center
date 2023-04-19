@@ -1,0 +1,6 @@
+.projects__title-container{
+    display: flex;
+    column-gap: 108px;
+    padding-left: 20vh;
+    padding-top: 45px;
+}

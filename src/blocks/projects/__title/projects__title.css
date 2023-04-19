@@ -1,0 +1,12 @@
+.projects__title {
+  font-family: "Futura PT";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 26px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #1c1c1c;
+  margin: 0;
+  width: 272px;
+}

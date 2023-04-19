@@ -17,3 +17,13 @@
 @import url(../blocks/header/__title-container/header__title-container.css);
 @import url(../blocks/header/__menu/header__menu.css);
 @import url(../blocks/header/__text-continer/header__text-continer.css);
+@import url(../blocks/header/__social-cintainer/header__social-cintainer.css);
+@import url(../blocks/projects/__name/projects__name.css);
+@import url(../blocks/projects/projects.css);
+@import url(../blocks/projects/__title/projects__title.css);
+@import url(../blocks/projects/__subtitle-heading/projects__subtitle-heading.css);
+@import url(../blocks/projects/__subtitle-document/projects__subtitle-document.css);
+@import url(../blocks/projects/__subtitle-container/projects__subtitle-container.css);
+@import url(../blocks/projects/__title-container/projects__title-container.css);
+@import url(../blocks/projects/__text-container/projects__text-container.css);
+@import url(../blocks/projects/__img/projects__img.css);
