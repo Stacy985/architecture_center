@@ -1,0 +1,22 @@
+.calculator__title {
+  font-family: "Futura PT";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 26px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #ffffff;
+  margin: 0;
+  position: relative;
+}
+.calculator__title::before {
+    content: " ";
+    background: #b6d7e8;
+    width: 14px;
+    height: 1px;
+    top: 12px;
+    left: -15px;
+    position: absolute;
+  }
+  
