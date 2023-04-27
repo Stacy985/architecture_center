@@ -1,0 +1,13 @@
+.calculator__link {
+  font-family: "Futura PT";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 124.49%;
+  letter-spacing: 0.06em;
+  color: #ffffff;
+  margin-left: 130px;
+  text-decoration: none;
+  border-bottom: 1px solid #b6d7e8;
+  padding-bottom: 4px;
+}

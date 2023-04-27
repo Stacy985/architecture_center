@@ -1,0 +1,7 @@
+.calculator__slidecontainer{
+    width: 352px;
+    padding-right: 130px;
+}
+.calculator__slidecontainer:last-of-type{
+   padding-right: 0; 
+}

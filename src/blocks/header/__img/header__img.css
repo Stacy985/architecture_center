@@ -1,7 +1,8 @@
 .header__img {
  width: 50%;
  float: right;
- position: relative;
- top: -400px;
+ position: absolute;
+ height: 100vh;
+ top:0;
+ right: 0;
 }
- 

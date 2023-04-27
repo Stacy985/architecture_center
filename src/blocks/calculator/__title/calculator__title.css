@@ -9,14 +9,14 @@
   color: #ffffff;
   margin: 0;
   position: relative;
+  padding-bottom: 50px;
 }
 .calculator__title::before {
-    content: " ";
-    background: #b6d7e8;
-    width: 14px;
-    height: 1px;
-    top: 12px;
-    left: -15px;
-    position: absolute;
-  }
-  
+  content: " ";
+  background: #b6d7e8;
+  width: 14px;
+  height: 1px;
+  top: 12px;
+  left: -15px;
+  position: absolute;
+}

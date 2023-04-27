@@ -1,4 +1,4 @@
-.header__link-socila {
+.footer__link-socila {
   font-family: "Futura PT";
   font-style: normal;
   font-weight: 400;
@@ -6,10 +6,9 @@
   line-height: 15px;
   letter-spacing: 0.04em;
   color: #696969;
-  transform: rotate(-90deg);
   padding-right: 50px;
   text-decoration: none;
 }
-.header__link-socila:last-of-type{
+.footer__link-socila:last-of-type {
   padding-right: 0;
 }

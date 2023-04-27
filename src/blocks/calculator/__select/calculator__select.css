@@ -1,0 +1,6 @@
+.calculator__select {
+  margin-bottom: 40px;
+}
+.calculator__select:last-of-type {
+  margin-bottom: 0;
+}

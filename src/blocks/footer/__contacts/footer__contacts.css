@@ -1,4 +1,5 @@
-.header__social-cintainer {
+.footer__contacts {
   display: flex;
+  padding-left: 150px;
   flex-direction: column;
 }

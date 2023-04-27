@@ -1,0 +1,6 @@
+.about__link {
+  margin-right: 26px;
+}
+.about__link:last-of-type {
+  margin-right: 0;
+}

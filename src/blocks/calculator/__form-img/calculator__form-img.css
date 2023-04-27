@@ -1,4 +1,5 @@
 .calculator__form-img {
   background-image: url(../../images/calculatot_.jpg);
   background-repeat: no-repeat;
+  box-sizing: border-box;
 }

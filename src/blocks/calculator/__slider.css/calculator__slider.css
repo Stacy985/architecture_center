@@ -1,0 +1,8 @@
+.calculator__slider{
+    width: 100%;
+    -webkit-appearance: none;  
+    appearance: none;
+    height: 1px;
+    border: 1px solid #B6D7E8;
+    border-radius: 5px;
+}

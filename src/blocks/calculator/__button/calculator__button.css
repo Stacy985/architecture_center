@@ -1,0 +1,14 @@
+.calculator__button {
+  width: 352px;
+  background: #B6D7E8;
+  height: 50px;
+  font-family: "Futura PT";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 19px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #1c1c1c;
+  border: none;
+}
